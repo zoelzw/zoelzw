@@ -1,0 +1,18 @@
+baseURL = "https://zoelzw.github.io"
+languageCode = "en-us"
+title = "Zoe's Journey"
+theme = "yinyang"
+DefaultContentLanguage = "en"
+
+
+[params]
+headTitle = "Zoe Liu"
+disqus = "ZoeZiweiLiu"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/zoelzw"
+
+[[params.socials]]
+name = "Email"
+link = "mailto:ziweiliu@uchicago.edu"
