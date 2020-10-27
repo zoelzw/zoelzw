@@ -1,4 +1,4 @@
-baseURL = "https://zoelzw.github.io"
+baseURL = "/layouts"
 languageCode = "en-us"
 title = "Zoe's Journey"
 theme = "yinyang"
